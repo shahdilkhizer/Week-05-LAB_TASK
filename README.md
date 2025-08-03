@@ -55,5 +55,5 @@ Week-05-LAB_TASK/
    cd Week-05-LAB_TASK
 
 2. Compile and run
-javac Main.java
-java Main
+* javac Main.java
+* java Main
