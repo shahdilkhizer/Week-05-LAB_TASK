@@ -29,12 +29,6 @@ To understand and apply the following OOP principles in Java:
 
 ---
 
-## 💻 Technologies Used
-
-- Java 17+
-- IntelliJ IDEA / Eclipse (recommended IDE)
-- Command Line (for compiling & running)
-
 ---
 
 ## 📁 File Structure
