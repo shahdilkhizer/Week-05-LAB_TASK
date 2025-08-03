@@ -1,5 +1,3 @@
-# Week-05-LAB_TASK
-Java OOP Lab Task for Week 05 - Includes Triangle class and object validation.
 # Week-05-LAB_TASK – Java OOP Lab Assignment
 
 This repository contains the Week 05 lab task for the Object-Oriented Programming (OOP) course. The task focuses on the implementation of basic OOP concepts using a Triangle class in Java.
@@ -57,5 +55,5 @@ Week-05-LAB_TASK/
    cd Week-05-LAB_TASK
 
 2. Compile and run
-  javac Main.java
-  java Main
+javac Main.java
+java Main
