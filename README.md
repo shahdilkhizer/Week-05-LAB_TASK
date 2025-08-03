@@ -29,7 +29,6 @@ To understand and apply the following OOP principles in Java:
 
 ---
 
----
 
 ## 📁 File Structure
 
